@@ -15,8 +15,7 @@
         android:layout_alignParentLeft="true"
         android:layout_alignParentTop="true"
         class="com.jackylo.multipanefragment.MainPanelFragment"
-        >
-    </fragment>
+        />
 
 
     <fragment
@@ -26,7 +25,6 @@
         android:layout_alignParentLeft="true"
         android:layout_alignParentTop="true"
         class="com.jackylo.multipanefragment.SidePanelFragment"
-        >
-    </fragment>
+        />
 
 </RelativeLayout>
